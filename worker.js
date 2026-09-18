@@ -1,0 +1,1 @@
+export default { async fetch(req) { return new Response("API Backend Online for Autonomous Crypto and AI App Store V2"); } }
